@@ -1,33 +1,26 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-
-
-# Sidebar filter
-# Choose 'tag' or 'category' as filter in sidebar.
-filter: 'tag'
+title: Peiwen Lu
+email: "&#104;&#105;&#064;&#112;&#101;&#105;&#119;&#101;&#110;&#046;&#108;&#117;"
+description: "Peiwen Lu's front-end blog."
+baseurl: ""
+url: "http://peiwen.lu"
+permalink: /:year/:title
 
 
 # Social account
-# twitter:  username
+twitter:  PeiwenLu
 # weibo:    ID
-# github:   username
-# codepen:  username
+github:   P233
+codepen:  P233
 # dribbble: username
 
 
 # Comment
-# disqus_shortname: discussion_shortname
+# disqus_shortname:
 
 
 # Google Analytics
-# google_analytics: tracking_ID
+google_analytics: UA-60830414-1
 
 
 # Build settings
