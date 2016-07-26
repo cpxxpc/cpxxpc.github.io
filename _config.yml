@@ -16,14 +16,14 @@ filter: 'category'
 
 # Social account
 # twitter:  cpxxpc
-# weibo:    cpxxpc
-github:   cpxxpc
+weibo:    cpxxpc
+# github:   cpxxpc
 # codepen:  username
 # dribbble: username
 
 
 # Comment
-# disqus_shortname: discussion_shortname
+disqus_shortname: cpxxpc
 
 
 # Google Analytics
