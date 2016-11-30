@@ -12,18 +12,10 @@
 
     <ul id="sidebar-tags">
       <li class="sidebar-tag active" data-filter="all">全部文章</li>
-      {% if site.filter == 'category' %}
-        {% for category in site.categories %}
-          <li class="sidebar-tag" data-filter="{{ category | first }}">{{ category | first }}</li>
-        {% endfor %}
-      {% elsif site.filter == 'tag' %}
-        {% for tag in site.tags %}
-          <li class="sidebar-tag" data-filter="随笔">随笔</li>
-          <li class="sidebar-tag" data-filter="生活">生活</li>
-          <li class="sidebar-tag" data-filter="图记">图记</li>
-          <li class="sidebar-tag" data-filter="其他">其他</li>
-        {% endfor %}
-      {% endif %}
+      <li class="sidebar-tag" data-filter="随笔">随笔</li>
+      <li class="sidebar-tag" data-filter="生活">生活</li>
+      <li class="sidebar-tag" data-filter="图记">图记</li>
+      <li class="sidebar-tag" data-filter="其他">其他</li>
     </ul>
   </div>
 
