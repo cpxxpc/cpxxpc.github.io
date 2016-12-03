@@ -1,7 +1,7 @@
 <p>CpxxpC的个人生活博客（兼个人主页），现内容包括<strong>随笔</strong>（日常随笔及随读、随听、语丝等）、<strong>生活</strong>（主要为记录nn成长的小文）、<strong>图记</strong>（包括外游图记、旧照等）、<strong>其它</strong>（包括个人作品、自规、站务、体验等）四方面，力图体现个人生活统一记录平台这一立足点。现访问地址 http://cpxxpc.com 。</p>    
 <p>以下简单回顾下这个小博客此前曲折动荡的变迁历程（2012.4.1~2016.12.3）——</p>
 <ul>
-<li>史前纪：@blogbus  http://cpxxpc.blogbus.com （2008.11~2009.7；近九个月；曾绑定域名<s>www.webgol.cn</s>，相关汇总日志在此；后曾迁至独立空间，绑定域名<s>cpxxpc.cn</s>，现仅余部分日志存底）</li>
+<li>史前纪：@blogbus  http://cpxxpc.blogbus.com （2008.11~2009.7；近九个月；曾绑定域名<s>www.webgol.cn</s>，后迁至独立空间，绑定域名<s>cpxxpc.cn</s>，现仅余部分日志存底）</li>
 <li>第一纪：@点点网 <s>http://www.smileso.tk</s> (2012.4.1-5.6，一个多月；原始链接地址为 http://smileso.diandian.com ；定名为“麦收客”）</li>
 <li>第二纪：@独立空间/BlogMI  <s>http://www.smileso.net</s> （2012.5.7-6.3，不足一个月；仍名为“麦收客”）</li>
 <li>第三纪：@不老歌  http://bulaoge.net/?smileso （2012.6.4-2013.3.15，九个多月；仍名为“麦收客”；期间分化出@不老歌的图志，@Lofter的随拍、随读等分站，存底由此总导航页可入<s>http://smileso.lofter.com</s>）</li>
