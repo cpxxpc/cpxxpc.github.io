@@ -1,4 +1,4 @@
-<p>CpxxpC的个人生活博客（兼个人主页），现内容包括<strong>随笔</strong>（日常随笔及随读、随听、语丝等）、<strong>生活</strong>（主要为记录nn成长的小文）、<strong>图记</strong>（包括外游图记、旧照等）、<strong>其它</strong>（包括个人作品、自规、站务、体验等）四方面，力图体现个人生活统一记录平台这一立足点。现访问地址 http://cpxxpc.com 。</p>    
+<p>CpxxpC的个人生活博客（兼个人主页），现内容包括<strong>随笔</strong>（日常随笔及随读、随听、语丝等）、<strong>生活</strong>（主要为记录nn成长的小文）、<strong>图记</strong>（包括外游图记、旧照等）、<strong>杂录</strong>（包括个人作品、自规、站务、体验等）四方面，力图体现个人生活统一记录平台这一立足点。现访问地址 http://cpxxpc.com 。</p>    
 <p>以下简单回顾下这个小博客此前曲折动荡的变迁历程（2012.4.1~2016.12.3）——</p>
 <ul>
 <li>史前纪：@blogbus  http://cpxxpc.blogbus.com （2008.11~2009.7；近九个月；曾绑定域名<s>www.webgol.cn</s>，后迁至独立空间，绑定域名<s>cpxxpc.cn</s>，现仅余部分日志存底）</li>
