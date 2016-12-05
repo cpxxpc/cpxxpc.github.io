@@ -14,5 +14,5 @@
 <li>第十纪：@Farbox  <s>http://blog.cpxxpc.com</s> （2014.11.29~2015.12.11，一年多；原始链接地址为 http://cpxxpc.farbox.com ；随总页迁回farbox，名为“CpxxpC的博客”）</li>
 <li>第十一纪：@Lofter  <s>http://cpxxpc.com</s> （2015.12.11~2016.5.20，近半年；原始链接地址为 http://cpxxpc.lofter.com ；腿伤其间，融合个人主页+博客功能迁回lofter，取消命名）</li>
 <li>第十二纪：@Farbox  <s>http://blog.cpxxpc.com</s> （2016.5.20~6.9，不足一月；原始链接地址为 http://cpxxpc.farbox.com ；再随总页迁回farbox，仍名为“CpxxpC的博客”；现仍可访问，已停止更新）</li>
-<li>第十三记：@独立空间/Wordpress  <s>http://cpxxpc.com</s> （2016.6.9~12.3；近六个月；7.18恢复曾用名“麦收客”；12.3留存版迁至NAS01，现已停止更新，留存地址为 http://wp2.cpxxpc.com ）</li>
+<li>第十三纪：@独立空间/Wordpress  <s>http://cpxxpc.com</s> （2016.6.9~12.3；近六个月；7.18恢复曾用名“麦收客”；12.3留存版迁至NAS01，现已停止更新，留存地址为 http://wp2.cpxxpc.com ）</li>
 </ul>
